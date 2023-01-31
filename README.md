@@ -2,11 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diyigemt&theme=dark&layout=compact)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
 <!--
 **diyigemt/diyigemt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
